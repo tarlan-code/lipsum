@@ -62,8 +62,8 @@ h2{
     text-align: justify;
 }
 
-.radio_table>div>label{
-    font-size: 14px;
+.radio_table div label{
+    font-size: 14px ;
     line-height: 20px;
 }
 
@@ -104,4 +104,9 @@ h3{
 
 .contact a:hover{
     color: red;
+}
+
+
+.generate_button{
+    font-size: 14px;
 }
