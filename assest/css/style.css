@@ -62,7 +62,7 @@ h2{
     text-align: justify;
 }
 
-td{
+.radio_table>div>label{
     font-size: 14px;
     line-height: 20px;
 }
@@ -88,4 +88,20 @@ td{
     color: black;
 }
 
+h3{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
 
+.contact a{
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.contact a:hover{
+    color: red;
+}
